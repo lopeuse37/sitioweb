@@ -25,3 +25,4 @@ urlpatterns = [
     path('servicios/', Servicio,name='servi'),
 
 ]
+#cualquier cosa 
